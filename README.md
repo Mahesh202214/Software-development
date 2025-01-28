@@ -16,7 +16,7 @@ This project follows the incremantal model with different modules and takes 12 w
 <b> Yaswanth : Diet Analysis </b>
 - Should create a tab and it should have input fields to collect weight and height.
 - Should also have button so that on clicking it suggestions are shown.
-- 
+ 
 <b> Harshita : Delivery Tracking </b>
 - Develop a <b>order</b> tab which shows the live tracking status of the package.
 
